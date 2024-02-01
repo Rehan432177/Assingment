@@ -1,0 +1,347 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    width: 100%;
+    padding-top: 150px;
+    margin-left: 400px;
+    display: flex;
+}
+.upper-text1{
+    color: #E61B24;
+    font-size: 20px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+}
+.upper-text2{
+    color: #F95425;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 19px;
+}
+.upper-text3{
+    color: #FFA425;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text4{
+    color: #FECB14;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text5{
+    color: #DCDE26;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text6{
+    color: #93D61C;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}.upper-text7{
+    color: #4CB500;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}.upper-text8{
+    color: #019B0F;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text9{
+    color: #00A65B;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text10{
+    color: #00C0B8;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text11{
+    color: #0187C6;
+    font-size: 16px;
+    font-weight: 750;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text12{
+    color: #004CC7;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text13{
+    color: #3326B5;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text14{
+    color: #4816B5;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.upper-text15{
+    color: #39118D;
+    font-size: 18px;
+    font-weight: 600;
+    text-orientation: sideways-right;
+    writing-mode: vertical-lr;
+    margin-left: 17px;
+}
+.box{
+    height: 150px;
+    width: 40px;
+    background-color: #E61B24;
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 0px;
+    
+}
+.container2{
+    text-align: center;
+}
+.first-box{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 100px;
+}
+.second-box{
+    background-color: #F95425;
+}
+.second-box {
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;  
+}
+.third-box{
+    background-color: #FFA425;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700; 
+}
+.forth-box{
+    background-color: #FECB14;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700; 
+}
+.five-box{
+    background-color: #DCDE26;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700; 
+}
+.six-box{
+    background-color: #93D61C;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700; 
+}
+.seven-box{
+    background-color: #4CB500;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.eight-box{
+    background-color: #019B0F;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.nine-box{
+    background-color: #00A65B;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ten-box{
+    background-color: #00C0B8;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.eleven-box{
+    background-color: #0187C6;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.twelve-box{
+    background-color: #004CC7;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.tharteen-box{
+    background-color: #3326B5;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.fourtheen-box{
+    background-color: #4816B5;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.fivtheen-box{
+    background-color: #39118D;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.number{
+    height: 42px;
+    width: 100%;
+    /* border: 2px solid; */
+    display: flex;
+}
+.num{
+    font-size: 30px;
+    margin-left: 410px;
+    text-align: center;
+    font-weight: 700;
+}
+.num2{
+    margin-left: 25px;
+}
+.num3{
+    margin-left: 25px;
+}
+.num4{
+    margin-left: 25px;
+}
+.num5{
+    margin-left: 25px;
+}
+.num6{
+    margin-left: 25px;
+}
+.num7{
+    margin-left: 25px;
+}
+.num8{
+    margin-left: 27px;
+}
+.num9{
+    margin-left: 27px;
+}
+.num10{
+    margin-left: 27px;
+}
+.num11{
+    margin-left: 18px;
+}
+.num12{
+    margin-left: 8px;
+}
+.num13{
+    margin-left: 8px;
+}
+.num14{
+    margin-left: 8px;
+}
+.num15{
+    margin-left: 7px;
+}
+/* .arrow{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .right-arrow{
+    border-top: 5px solid;
+    width: 21%;
+    margin-left: 400px;
+    display: inline-block;
+}
+.left-arrow{
+    border-top: 5px solid;
+    width: 21%;
+    margin-left: 95px;
+} */
+
+
+
+
+
+
+
+
+
+
+
